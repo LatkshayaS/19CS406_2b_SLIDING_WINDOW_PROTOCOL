@@ -66,6 +66,7 @@ s.close()
 ## OUPUT
 ###SERVER
 ![SEVER](SERVER.png)
+
 ###CLIENT:
 ![CLIENT](CLIENT.png)
 ## RESULT
